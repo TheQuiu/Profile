@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thequiu&show_icons=true&theme=gruvbox&locale=en" alt="thequiu" /></p>
+
 
 <p align="left">
 </p>
