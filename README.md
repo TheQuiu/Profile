@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **HypeAPI**
+- 🔭 I’m currently working on **Plazmix**
 
 - 🌱 I’m currently learning **Java**
 
