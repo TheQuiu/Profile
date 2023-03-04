@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quiu</h1>
 <h3 align="center">Backend developer/Litle frontend.</h3>
 
-- 🔭 I’m currently working on [Plazmix Network](https://plazmix.net/)
+- 🔭 I’m currently working on SateWork studios
 
 - 📫 How to reach me **Discord: quiu#0377**
 
