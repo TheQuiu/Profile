@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quiu</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
 
-- 🔭 I’m currently working on [Abelix Club](https://abelix.club)
-
-- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **ildar6187@gmail.com**
 
